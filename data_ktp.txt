@@ -1,0 +1,32 @@
+Data KTP ke-1
+NIK: 23455
+Nama: gevan
+Tempat/Tgl Lahir: jogja
+Jenis Kelamin: Laki-laki
+Golongan Darah: A
+Alamat: jogja
+RT/RW: 03
+Kel/Desa: bantuk
+Kecamatan: banuntapan
+Agama: Islam
+Status Perkawinan: kawin
+Pekerjaan: belum
+Kewarganegaraan: indo
+Berlaku Hingga: seumut hidup
+========================================
+Data KTP ke-2
+NIK: 2345
+Nama: dzakwan
+Tempat/Tgl Lahir: bantuk
+Jenis Kelamin: Perempuan
+Golongan Darah: O
+Alamat: sarana
+RT/RW: 02
+Kel/Desa: lebkwangi
+Kecamatan: bangun
+Agama: Kristen
+Status Perkawinan: belum
+Pekerjaan: belum
+Kewarganegaraan: indo
+Berlaku Hingga: seumur
+========================================
